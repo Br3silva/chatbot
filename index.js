@@ -1,5 +1,5 @@
 
-	
+
     function test(){
         
         var a = document.getElementById ("teste3").value;

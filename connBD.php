@@ -14,7 +14,6 @@ die ("conexao mal sucedida" . mysqli_connect_error());
 
 }
 
-echo  "conexao sucedida";
 
 
 ?>
